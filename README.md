@@ -17,11 +17,9 @@
 
 **Notes:**
 
-      1. Course [home page](https://github.com/BC-CSCI1102/s18)
-
+      1. Course home page: https://github.com/BC-CSCI1102/s18
       2. Syllabus under the Resources link, we expect you to read the syllabus and follow the protocols laid out there.
-
-      3. We're otherwise have a laptop-free classroom, please close your laptop when class starts.
+      3. We're otherwise have a laptop-free classroom, please close your laptop when class starts. 
 ---
 
 ## 1. What is CS102 about?
@@ -90,9 +88,9 @@ In Java:
 A specification:
 
 ```java
-public interface Stack {
-  void push(T item);
-  T pop();
+public interface StringStack {
+  void push(String item);
+  String pop();
   boolean isEmpty();
   int size();
 }
@@ -101,7 +99,7 @@ public interface Stack {
 An implementation:
 
 ```java
-public class MyStack implements Stack {
+public class StackC implements StringStack {
 ... implementations of push, pop, isEmpty, size ...
 }
 ```
