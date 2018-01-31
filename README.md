@@ -17,12 +17,13 @@
 
 **Notes:**
 
-      1. Course home page: https://github.com/BC-CSCI1102/s18
-      2. Syllabus under the Resources link, we expect you to read the syllabus and follow the protocols laid out there.
-      3. We're otherwise have a laptop-free classroom, please close your laptop when class starts. 
+  1. Course home page: https://github.com/BC-CSCI1102/s18
+   2. Syllabus under the Resources link, we expect you to read the syllabus and follow the protocols laid out there.
+   3. We're otherwise have a laptop-free classroom, please close your laptop when class starts. 
+
 ---
 
-## 1. What is CS102 about?
+## 1. What is CSCI 1102 about?
 
   + Generally speaking, CS is concerned with:
     + information — data
@@ -36,7 +37,7 @@
           + structure often determined by *ordering* the data
 
     + algorithm: what is a "good" algorithm?
-      + correct (!)
+      + correct 
       + efficient — time & space
       + maintainable
 
